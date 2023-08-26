@@ -1,0 +1,172 @@
+body{
+    background-color: gray;
+}
+
+main{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+    max-height: 4600px;
+    height: auto;
+
+}
+
+body,html{
+    margin: 0;
+}
+
+
+.cabecario{
+    background-color: aqua;
+    border-radius: 30px;
+}
+
+
+
+.body{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    border-radius: 30px;
+
+}
+
+.titulo6{
+    background-color: aliceblue;
+    border: solid 6px black;
+    color: black;
+    border-radius: 30px;
+    width: 300px;
+    margin-left: 60px;
+    text-align: center;
+
+    
+}
+
+.front-end{
+    background-color: aliceblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 90px;
+    margin-left: 6px;
+    margin-right: 6px;
+    height: 90px;
+    line-height: 90px;
+    margin-top: 60px;
+}
+
+.full-stack{
+    margin-top: 0;
+    color: black;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.linguage-full-stack{
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin-left: 9px;
+    margin-right: 9px;
+
+}
+
+.back-end{
+    margin-top: 90px;
+    background-color: aliceblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 90px;
+    margin-left: 3px;
+    margin-right: 3px;
+    height: 90px;
+    line-height: 90px;
+
+}
+
+.body3{
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.body6{
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    margin-left: 9px;
+    margin-top: 9px;
+}
+
+.html{
+    color: blue;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.css{
+    color: orange;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.javascript{
+    color: yellow;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.python{
+    color: Blue;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.php{
+    color: gray;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.java{
+    color: orange;
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desenvolvimento_na_web{
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin-left: 9px;
+    margin-right: 9px;
+
+
+}
+
+.html1{
+    width: 100px;
+    height: 100px;
+    margin-left: 3px;
+    margin-top: 30px;
+
+
+}
+
+
+
+
+
